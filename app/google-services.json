@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "376673120668",
+    "project_id": "prog-poe-3c",
+    "storage_bucket": "prog-poe-3c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376673120668:android:c7c63ec72353cacd2fd859",
+        "android_client_info": {
+          "package_name": "com.example.socialmediapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABz3X-lLiHJLpA_kPpEkGYP9M9LTE72Ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376673120668:android:ab3c8b4cec4430de2fd859",
+        "android_client_info": {
+          "package_name": "vcmsa.projects.budget_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABz3X-lLiHJLpA_kPpEkGYP9M9LTE72Ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
